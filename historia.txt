@@ -5,8 +5,17 @@ Es un tipo copado pero raro..
 
 ESC 2-------------------------------------
 
-Su nombre es rigoleti y le gusta el
+Su nombre es rigoleti y le gusta el fiambre
+barato. Pero prefiere la milanesa, fin.
 
-spaguetthi
+____________________________________________
 
-prefiere la milanesa, fin.
+SC 1----------------------------------------
+
+This is the story of Pepillo Piruleta
+He's a weird guy but a funny one.
+
+SC 2----------------------------------------
+
+His name is Rigoletti and he likes salty meat
+that is cheap. He prefers milanesa, the end.
