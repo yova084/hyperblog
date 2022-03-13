@@ -19,3 +19,13 @@ body {
 #container h1 {
     font-size: 20px;
 }
+
+#cabecera {
+background-color: rgb(56, 219, 157);
+font-size: 2em;
+padding: 1em;
+border: 2px solid;
+margin: 0 auto;
+width: 100%;
+box-shadow: #000;
+}
