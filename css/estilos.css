@@ -28,5 +28,5 @@ border: 2px solid;
 margin: 0 auto;
 width: 100%;
 box-shadow: #000;
-color: aquamarine;
+border-radius: .5em;
 }
