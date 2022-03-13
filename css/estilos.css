@@ -21,11 +21,12 @@ body {
 }
 
 #cabecera {
-background-color: rgb(56, 219, 157);
+background-color: rgb(185, 178, 68);
 font-size: 2em;
 padding: 1em;
 border: 2px solid;
 margin: 0 auto;
 width: 100%;
 box-shadow: #000;
+border-radius: .5em;
 }
