@@ -46,3 +46,10 @@ body {
     border-style: dotted;
     padding: .2em;
 }
+
+footer{
+    background-color: rgb(145, 145, 145);
+    color: aliceblue;
+    margin: 0 auto;
+    padding: .3em;
+}
