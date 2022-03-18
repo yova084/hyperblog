@@ -30,3 +30,10 @@ width: 100%;
 box-shadow: #000;
 border-radius: .5em;
 }
+
+footer{
+    background-color: rgb(145, 145, 145);
+    color: aliceblue;
+    margin: 0 auto;
+    padding: .3em;
+}
