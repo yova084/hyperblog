@@ -1,11 +1,12 @@
 body {
-    text-align: center;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     background-color: rgb(59, 59, 59);
     color: rgb(231, 231, 231);
-    font-size: 16px;
-    margin: 0;
+    margin: 0 auto;
     padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-content: space-between;
 }
 
 #container {
@@ -52,4 +53,7 @@ footer{
     color: aliceblue;
     margin: 0 auto;
     padding: .3em;
+    width: 100%;
+    text-align: center;
+    margin-top: 20em;
 }
